@@ -14,4 +14,4 @@ The dataset used can be downloaded from the following link:
 Inside the `model` folder, the file `Weather_Image_Recognition.ipynb` contains the source code necessary to generate the .h5 model file that needs to be stored in the root of the Django files with the name `model-ResNet50.h5`.
 
 # Preview
-<img width="450" alt="image" src="https://github.com/Bruno-Schwartz/Django-based-website-Weather-Image-Recognition/assets/preview.png">
+<img width="450" alt="image" src="https://github.com/Bruno-Schwartz/Django-based-website-Weather-Image-Recognition/blob/main/assets/Preview.png">
